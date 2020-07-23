@@ -15,4 +15,6 @@ public abstract class Enemy {
         healthPoints -= damage;
     }
 
+
+
 }
